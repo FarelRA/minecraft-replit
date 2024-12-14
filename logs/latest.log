@@ -1,0 +1,44 @@
+[07:54:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:54:59] [ServerMain/INFO]: Loaded 1370 recipes
+[07:54:59] [ServerMain/INFO]: Loaded 1481 advancements
+[07:55:00] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[07:55:00] [Server thread/INFO]: Loading properties
+[07:55:00] [Server thread/INFO]: Default game type: SURVIVAL
+[07:55:00] [Server thread/INFO]: Generating keypair
+[07:55:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:55:00] [Server thread/INFO]: Using epoll channel type
+[07:55:00] [Server thread/INFO]: Preparing level "world"
+[07:55:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[07:55:10] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[07:55:10] [Server thread/INFO]: Time elapsed: 9172 ms
+[07:55:10] [Server thread/INFO]: Done (10.176s)! For help, type "help"
+[07:56:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[07:57:18] [Server thread/INFO]: Stopping the server
+[07:57:18] [Server thread/INFO]: Stopping server
+[07:57:18] [Server thread/INFO]: Saving players
+[07:57:18] [Server thread/INFO]: Saving worlds
+[07:57:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:57:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:57:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:57:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

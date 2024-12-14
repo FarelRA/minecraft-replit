@@ -1,1 +1,49 @@
-[10:55:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:00:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:00:14] [ServerMain/INFO]: Loaded 1370 recipes
+[11:00:14] [ServerMain/INFO]: Loaded 1481 advancements
+[11:00:15] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:00:15] [Server thread/INFO]: Loading properties
+[11:00:15] [Server thread/INFO]: Default game type: SURVIVAL
+[11:00:15] [Server thread/INFO]: Generating keypair
+[11:00:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:00:15] [Server thread/INFO]: Using epoll channel type
+[11:00:15] [Server thread/INFO]: Preparing level "world"
+[11:00:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[11:00:28] [Server thread/INFO]: Time elapsed: 12187 ms
+[11:00:28] [Server thread/INFO]: Done (12.870s)! For help, type "help"
+[11:01:16] [Server thread/INFO]: Stopping the server
+[11:01:16] [Server thread/INFO]: Stopping server
+[11:01:16] [Server thread/INFO]: Saving players
+[11:01:16] [Server thread/INFO]: Saving worlds
+[11:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:01:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:01:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:01:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:01:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:01:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

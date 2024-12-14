@@ -1,0 +1,5 @@
+# Ignore everything in the 'server' directory
+server/*
+
+# Allow the 'start.sh' in the 'server' directory
+!server/start.sh

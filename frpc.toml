@@ -1,0 +1,21 @@
+serverAddr = "{{ .Envs.FRP_ADDR }}"
+auth.token = "{{ .Envs.FRP_TOKEN }}"
+
+# For TCP:
+serverPort = 7000
+transport.protocol = "tcp"
+
+# For KCP:
+#serverPort = 7001
+#transport.protocol = "kcp"
+
+# For QUIC:
+# serverPort = 7002
+# transport.protocol = "quic"
+
+[[proxies]]
+name = "Minecraft Java"
+type = "tcp"
+localIP = "127.0.0.1"
+localPort = 25565
+remotePort = 25565

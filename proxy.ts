@@ -1,5 +1,5 @@
-import { Application } from "https://deno.land/x/oak@v12.5.0/mod.ts";
-import { proxy } from "https://deno.land/x/oak_http_proxy@4.1.0/mod.ts";
+import { Application } from "https://deno.land/x/oak@v17.1.3/mod.ts";
+import { proxy } from "https://deno.land/x/oak_http_proxy@2.3.0/mod.ts";
 
 const app = new Application();
 

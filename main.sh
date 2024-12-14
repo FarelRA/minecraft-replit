@@ -8,7 +8,7 @@ FABRIC_VERSION="1.0.1"
 MINECRAFT_VERSION="1.21.4"
 EULA_FILE="eula.txt"
 FRPC_CONFIG="frpc.toml"
-DENO_PROXY="proxy_server.ts"
+DENO_PROXY="proxy.ts"
 
 # Ensure app directory exists
 if [ ! -d "$APP_DIR" ]; then
